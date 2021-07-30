@@ -2,4 +2,4 @@
 For education purpose only
 Virus source code
 ##########################
-malware code
+malware code- ⚠ INFECTED FILES ⚠
