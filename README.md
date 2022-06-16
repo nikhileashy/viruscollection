@@ -1,5 +1,6 @@
-#########################
+<h1>DNN PLUGIN ARCHIVE</h1>
+
 For education purpose only
-Virus source code
-##########################
-malware code- ⚠ INFECTED FILES ⚠
+Virus source codeS
+
+<b>Malware code- ⚠ INFECTED FILES ⚠</b>
